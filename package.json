@@ -1,5 +1,5 @@
 {
-  "name": "frontend-collective-react-dnd-scrollzone",
+  "name": "@ref/react-dnd-scrollzone",
   "version": "1.0.2",
   "description": "A cross browser solution to scrolling during drag and drop.",
   "main": "lib/index.js",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontend-collective/react-dnd-scrollzone"
+    "url": "https://github.com/crux153/frontend-collective-react-dnd-scrollzone"
   },
   "bugs": {
-    "url": "http://github.com/frontend-collective/react-dnd-scrollzone/issues"
+    "url": "https://github.com/crux153/frontend-collective-react-dnd-scrollzone/issues"
   },
   "keywords": [
     "react",
